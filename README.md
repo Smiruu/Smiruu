@@ -31,10 +31,5 @@ I am highly **adaptable** to any scenario and always ready to **break through ev
 
 ---
 
-## 📈 GitHub Stats
-![Justine's GitHub stats](https://github-readme-stats.vercel.app/api?username=justine-dev&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-angelo-de-vera-445b71371/)
