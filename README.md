@@ -8,6 +8,11 @@ I am highly **adaptable** to any scenario and always ready to **break through ev
 
 ---
 
+## 🏆 Competitions
+- 🥈 **CpE Challenge Regional** – Java Coding Category – **2nd Place**
+
+---
+
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
