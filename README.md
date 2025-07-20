@@ -29,7 +29,7 @@ I am highly **adaptable** to any scenario and always ready to **break through ev
 ---
 
 ## 🚀 Projects
-- 📚 **Personovel** – A library web app built with Django + React  
+- 📚 **Personovel** – A library web app built with Django + React with integrated Paypal API for subscription 
 - 🧍 **Character Creator** – A Java-based GUI app for designing game/anime characters  
 - 📝 **Noted** – A StudyGroup web app featuring real-time chat functionality  
 - 🍱 **Luncher** – My current thesis project: a smart lunchbox powered by AI and sensors  
