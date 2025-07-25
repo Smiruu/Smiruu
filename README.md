@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Justine Angelo De Vera!
 
 🎓 I'm a **4th-year Computer Engineering student** passionate about building innovative tech solutions.  
-💡 I work on projects involving **AI**, **embedded systems**, **computer vision**, and **web development**.
+💡 I work on projects involving **AI**, **embedded systems**, **computer vision**, and **web development**. I also have experience and have a deep understanding of **networking**.
 
 🌟 I aspire to be a **Web Developer**, **Software Engineer**, or **Software Developer**.  
 I am highly **adaptable** to any scenario and always ready to **break through every challenge** I face.
