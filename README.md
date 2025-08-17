@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Justine Angelo De Vera!
 
 🎓 I'm a **4th-year Computer Engineering student** passionate about building innovative tech solutions.  
-💡 I work on projects involving **AI**, **embedded systems**, **computer vision**, and **web development**. I also have experience and have a deep understanding of **networking**.
+💡 I work on projects involving **AI**, **embedded systems**, **computer vision**, and **web development**.  
+🌐 I also have a deep understanding of **networking**.  
 
 🌟 I aspire to be a **Web Developer**, **Software Engineer**, or **Software Developer**.  
 I am highly **adaptable** to any scenario and always ready to **break through every challenge** I face.
@@ -9,7 +10,8 @@ I am highly **adaptable** to any scenario and always ready to **break through ev
 ---
 
 ## 🏆 Competitions
-- 🥈 **CpE Challenge Regional** – Java Coding Category – **2nd Place**
+- 🥈 **CpE Challenge Regional** – Java Coding Category – **2nd Place**  
+- 🤖 **AI Fest 2025 Hackathon** – **Top 10 Finalist**  
 
 ---
 
@@ -29,10 +31,29 @@ I am highly **adaptable** to any scenario and always ready to **break through ev
 ---
 
 ## 🚀 Projects
-- 📚 **Personovel** – A library web app built with Django + React with integrated Paypal API for subscription 
+- 📚 **Personovel** – A library web app built with Django + React with integrated Paypal API for subscription  
 - 🧍 **Character Creator** – A Java-based GUI app for designing game/anime characters  
 - 📝 **Noted** – A StudyGroup web app featuring real-time chat functionality  
-- 🍱 **Luncher** – My current thesis project: a smart lunchbox powered by AI and sensors  
+- 🍱 **ByteBox** – My current thesis project: a food container powered by AI and sensors  
+
+---
+
+## 📊 GitHub Stats & Animations
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Justine+Angelo+De+Vera;AI+%7C+Web+Dev+%7C+Embedded+Systems;Always+learning+new+tech!+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustineDeVera&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustineDeVera&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustineDeVera&theme=github-compact" alt="Contribution Graph" />
+</p>
 
 ---
 
