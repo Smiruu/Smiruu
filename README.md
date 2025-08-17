@@ -44,15 +44,15 @@ I am highly **adaptable** to any scenario and always ready to **break through ev
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustineDeVera&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smiruu&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustineDeVera&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smiruu&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustineDeVera&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smiruu&theme=github-compact" alt="Contribution Graph" />
 </p>
 
 ---
