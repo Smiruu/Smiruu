@@ -39,6 +39,7 @@ I am highly **adaptable** to any scenario and always ready to **break through ev
 - 🧍 **Character Creator** – A Java-based GUI app for designing game/anime characters  
 - 📝 **Noted** – A StudyGroup web app featuring real-time chat functionality  
 - 🍱 **ByteBox** – My current thesis project: a food container powered by AI and sensors  
+- 📖 **Studybot** - A flashcard study website that creates smart questions via AI
 
 ---
 
