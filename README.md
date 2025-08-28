@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm  
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Justine+Angelo+De+Vera;AI+Enthusiast;Web+Developer;Computer+Engineer;Software+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Justine+Angelo+De+Vera;AI+Enthusiast;Web+Developer;Computer+Engineer;Software+Developer" alt="Typing Animation" />
 </h1>
 
 🎓 I'm a **4th-year Computer Engineering student** passionate about building innovative tech solutions.  
@@ -46,15 +46,18 @@ I am highly **adaptable** to any scenario and always ready to **break through ev
 ## 📊 GitHub Stats & Animations
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smiruu&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+  <!-- 🔥 GitHub Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Smiruu&theme=dark&hide_border=false&background=0D1117&ring=1E90FF&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=1E90FF&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smiruu&theme=radical" alt="GitHub Streak" />
+  <!-- 📊 GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Smiruu&show_icons=true&hide_border=false&bg_color=0D1117&title_color=1E90FF&icon_color=FF4500&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smiruu&theme=github-compact&count_private=true" alt="Contribution Graph" />
+  <!-- 📈 GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smiruu&bg_color=0D1117&color=FFFFFF&line=1E90FF&point=FF4500&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </p>
 ---
 
