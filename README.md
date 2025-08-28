@@ -44,16 +44,13 @@ I am highly **adaptable** to any scenario and always ready to **break through ev
 ---
 
 ## 📊 GitHub Stats & Animations
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Justine+Angelo+De+Vera;AI+%7C+Web+Dev+%7C+Embedded+Systems;Always+learning+new+tech!+🚀" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smiruu&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smiruu&theme=radical&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smiruu&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
