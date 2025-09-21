@@ -12,14 +12,15 @@ I aspire to be a **Web Developer**, **Software Engineer**, or **Software Develop
 I am highly **adaptable** to any scenario and always ready to **break through every challenge** I face.
 
 ## Tech Stack
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
 ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberrypi)
 
 ## 📊 GitHub Stats & Animations
 
