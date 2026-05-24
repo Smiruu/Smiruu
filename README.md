@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Justine+Angelo+De+Vera;AI+Enthusiast;Web+Developer;Computer+Engineer;Software+Developer" alt="Typing Animation" />
 </h1>
 
-I'm a **4th-year Computer Engineering student** passionate about building innovative tech solutions.  
+I'm a **Computer Engineering Graduate** passionate about building innovative tech solutions.  
 I work on projects involving **AI**, **embedded systems**, **computer vision**, and **web development**.  
 I also have a deep understanding of **networking**.  
 
